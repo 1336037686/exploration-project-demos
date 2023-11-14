@@ -3,8 +3,8 @@ package com.lgx.jvm;
 /**
  * @author 13360
  * @version 1.0
- * @description: TODO
- * @date 2023-11-14 11:05
+ * @description: TODO /
+ * @date 2023-11-14 11:06
  */
 public class Math {
 
@@ -19,7 +19,7 @@ public class Math {
 
     public static void main(String[] args) {
         Math math = new Math();
-        math.compute();
+        System.out.println(math.compute());
     }
 
 }
